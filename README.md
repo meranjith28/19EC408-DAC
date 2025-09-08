@@ -97,6 +97,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ![WhatsApp Image 2025-09-08 at 19 38 09_d93f7010](https://github.com/user-attachments/assets/448bcaa0-1147-43a8-8308-70472fd05b09)
 
+
+
 ![WhatsApp Image 2025-09-08 at 19 38 19_cf69d852](https://github.com/user-attachments/assets/f3fca75d-0401-4490-a3c1-82ec41ba3871)
 
 
